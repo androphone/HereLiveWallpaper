@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+!/app/src/main/java/pl/czerniak/kamil/herelivewallpaper/Secrets.java
+app/libs/
+app/src/androidTest/
+app/google-services.json
+app/src/main/java/pl/czerniak/kamil/herelivewallpaper/Secrets.java
+app/src/main/res/secrets/
+app/src/test/
+KeyStore.jks
